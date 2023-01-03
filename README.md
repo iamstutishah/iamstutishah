@@ -8,6 +8,8 @@ I'm a student at the University of Minnesota-Twin Cities, studying computer scie
 - 📫 How to reach me: hi@iamstuti.com 
 - 😄 Pronouns: she/her
 
+My most used languages currently are: Python, Java, JavaScript, and HTML/CSS.
+
 
 <!--
 **iamstutishah/iamstutishah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
