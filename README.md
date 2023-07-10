@@ -8,7 +8,7 @@ I'm a student at the University of Minnesota-Twin Cities, studying computer scie
 - 📫 How to reach me: hi@iamstuti.com 
 - 😄 Pronouns: she/her
 
-My most used languages currently are: Python, Java, JavaScript, and HTML/CSS.
+My most used languages currently are: Python, Java, and TypeScript.
 
 
 <!--
